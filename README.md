@@ -84,19 +84,18 @@ MY-NEXT-APP/
 Here's a visual journey through the platform's key interfaces:
 
 ### Login Page
-![Login Interface](Assets/Screenshot%202024-11-23%20at%205.55.29%20pm.png)
+![Login Interface](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%205.55.29%20pm.png)
 
 ### Dashboard
-![Dashboard View](Assets/Screenshot%202024-11-23%20at%205.55.37%20pm.png)
+![Dashboard View](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%205.55.37%20pm.png)
 
 ### Create Post
-![Post Creation](Assets/Screenshot%202024-11-23%20at%205.55.46%20pm.png)
+![Post Creation](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%205.55.46%20pm.png)
 
 ### Blog Views
-![Blog Interface 1](Assets/Screenshot%202024-11-23%20at%205.55.53%20pm.png)
-![Blog Interface 2](Assets/Screenshot%202024-11-23%20at%206.06.13%20pm.png)
-![Blog Interface 3](Assets/Screenshot%202024-11-23%20at%206.06.18%20pm.png)
-
+![Blog Interface 1](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%205.55.53%20pm.png)
+![Blog Interface 2](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%206.06.13%20pm.png)
+![Blog Interface 3](https://raw.githubusercontent.com/Rohitrky2021/Assin_Attack_Capital/main/Assets/Screenshot%202024-11-23%20at%206.06.18%20pm.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
